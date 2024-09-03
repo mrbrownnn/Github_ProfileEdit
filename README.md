@@ -1,9 +1,8 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a student at SMK Telkom Malang
-
-### so, curently this is my first try making my readme, hope you like it 😄
-### and, you can call me asthi or seta
+### :smiley_cat: I am a student at Posts and Telecommunications Institute of Technology
+### Thank you for visiting my personal page
+### and, you can call me mrbrownnn
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
