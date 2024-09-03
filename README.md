@@ -8,8 +8,8 @@
 
 ## By the way here are some of my statistics 🚀
 (![mrbrownnn's Stats](https://github-readme-stats.vercel.app/api?username=mrbrownnn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbrownnn&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrownnn&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning C#, Unity and Java Spring 🎄
 
