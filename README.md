@@ -10,7 +10,7 @@
 ![Git](https://img.icons8.com/color/50/git.png) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrbrownnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbrownnn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrbrownnn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrownnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
