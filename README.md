@@ -4,10 +4,10 @@
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.icons8.com/color/50/html-5--v1.png) ![C++](https://img.icons8.com/color/50/c-plus-plus-logo.png) ![C#](https://img.icons8.com/nolan/50/c-sharp-logo.png) ![Java](https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png) ![Spring](https://img.icons8.com/color/50/spring-logo.png) ![Unity](https://img.icons8.com/ios-filled/50/unity.png)
+![HTML5](https://img.icons8.com/color/50/html-5--v1.png) ![C++](https://img.icons8.com/color/50/c-plus-plus-logo.png) ![C#](https://img.icons8.com/nolan/50/c-sharp-logo.png) ![Java](https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png) ![Spring](https://img.icons8.com/color/50/spring-logo.png) ![Unity](https://img.icons8.com/ios-filled/50/unity.png) ![JavaScript](https://img.icons8.com/color/50/javascript--v1.png)
 ![MongoDB](https://img.icons8.com/color/50/mongodb.png) 
 ![MySQL](https://img.icons8.com/color/50/mysql-logo.png)
-![Git](https://img.icons8.com/ios-filled/50/unity.png) ![GitHub](https://img.icons8.com/ios-filled/50/unity.png)
+![Git](https://img.icons8.com/color/50/git.png) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrbrownnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
