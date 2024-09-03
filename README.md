@@ -4,9 +4,10 @@
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.icons8.com/color/50/html-5--v1.png) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.icons8.com/ios-filled/50/c-plus-plus-logo.png) ![C#](https://img.icons8.com/nolan/50/c-sharp-logo.png) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![HTML5](https://img.icons8.com/color/50/html-5--v1.png) ![C++](https://img.icons8.com/color/50/c-plus-plus-logo.png) ![C#](https://img.icons8.com/nolan/50/c-sharp-logo.png) ![Java](https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png) ![Spring](https://img.icons8.com/color/50/spring-logo.png) ![Unity](https://img.icons8.com/ios-filled/50/unity.png)
+![MongoDB](https://img.icons8.com/color/50/mongodb.png) 
+![MySQL](https://img.icons8.com/color/50/mysql-logo.png)
+![Git](https://img.icons8.com/ios-filled/50/unity.png) ![GitHub](https://img.icons8.com/ios-filled/50/unity.png)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrbrownnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
